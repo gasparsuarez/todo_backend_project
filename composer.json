@@ -1,0 +1,16 @@
+{
+    "name": "gasparsuarez/todo_project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gasparsuarez\\TodoProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gaspar Suarez",
+            "email": "gaspar.mdp@gmail.com"
+        }
+    ],
+    "require": {}
+}
